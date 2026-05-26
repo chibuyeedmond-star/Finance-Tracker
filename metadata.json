@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "Daily expense and income tracker with margin tracking, monthly summaries, and beautiful visual charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
